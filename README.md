@@ -1,5 +1,5 @@
 
-statistical visualisation using seaborn library
+Statistical visualisation of titanic dataset using seaborn library
 1st update : 30.06.2019
 
 
