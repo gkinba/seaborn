@@ -5,7 +5,10 @@ statistical visualisation using seaborn library
 
 
 References: 
+
 https://seaborn.pydata.org/
+
 More information about signature is available at SuperDataScience youtube channel 
+
 Datasets: https://www.kaggle.com/c/titanic 
 
